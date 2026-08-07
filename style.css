@@ -1,15 +1,3 @@
-body {
-
-background-color: color #fff;
-
-}
-
-div {
-
- background-color: #4881eb
-
- .botao {
-
-    background-color: red;
- }
+function mostrarMensagem() {
+    alert("Você clicou!");
 }
